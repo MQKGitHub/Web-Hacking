@@ -10,7 +10,7 @@ This module helps the user become familiar with web applications, JavaScript, da
 
 | Topic Name                 | Status         | Link                                                                |
 |----------------------------|----------------|---------------------------------------------------------------------|
-| Web Application Basics     | ✅ Completed    | [View Write-Up]()     |
+| Web Application Basics     | ✅ Completed    | [View Write-Up](https://github.com/MQKGitHub/Web-Application-Basics/) |
 | JavaScript Essentials      | 🟡 In Progress  | [View Write-Up]()      |
 | SQL Fundamentals           | ❌ Not Started  | [View Write-Up]()           |
 | Burp Suite: The Basics     | ❌ Not Started  | [View Write-Up]()       |
@@ -21,8 +21,8 @@ This module helps the user become familiar with web applications, JavaScript, da
 ### 🧠 Overview
 
 ### 🌐 Web Application Basics  
-- coming soon... 
-- coming soon...
+- Learned how web browsers and servers communicate using HTTP, including how requests and responses are structured with methods, codes, and headers.  
+- Gained a strong understanding of how URLs, front-end and back-end systems, and security headers play a role in how web applications function.
 
 ### 💻 JavaScript Essentials  
 - coming soon... 
