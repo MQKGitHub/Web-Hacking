@@ -12,8 +12,8 @@ This module helps the user become familiar with web applications, JavaScript, da
 |----------------------------|----------------|---------------------------------------------------------------------|
 | Web Application Basics     | ✅ Completed    | [View Write-Up](https://github.com/MQKGitHub/Web-Application-Basics/) |
 | JavaScript Essentials      | ✅ Completed    | [View Write-Up](https://github.com/MQKGitHub/JavaScript-Essentials/)  |
-| SQL Fundamentals           | 🟡 In Progress  | [View Write-Up]()           |
-| Burp Suite: The Basics     | ❌ Not Started  | [View Write-Up]()       |
+| SQL Fundamentals           | ✅ Completed    | [View Write-Up](https://github.com/MQKGitHub/SQL-Fundamentals/)       |
+| Burp Suite: The Basics     | 🟡 In Progress  | [View Write-Up]()       |
 | OWASP Top 10 - 2021        | ❌ Not Started  | [View Write-Up]()          |
 
 ---
@@ -28,9 +28,9 @@ This module helps the user become familiar with web applications, JavaScript, da
 - Learned how JavaScript powers interactive websites through variables, functions, loops, and browser dialogue methods.  
 - Explored how attackers abuse poorly written JS for login bypasses or XSS, and practised secure coding techniques like separating logic and avoiding client-side trust.
 
-### 🗄️ SQL Fundamentals  
-- coming soon... 
-- coming soon...
+### 🧮 SQL Fundamentals  
+- Explored how to interact with relational databases using SQL commands like `SELECT`, `INSERT`, `UPDATE`, and `DELETE`.  
+- Learned how to filter, sort, and aggregate data using clauses, operators, and built-in functions to support cyber security tasks.
 
 ### 🛠 Burp Suite: The Basics  
 - coming soon... 
