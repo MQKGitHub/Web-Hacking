@@ -11,8 +11,8 @@ This module helps the user become familiar with web applications, JavaScript, da
 | Topic Name                 | Status         | Link                                                                |
 |----------------------------|----------------|---------------------------------------------------------------------|
 | Web Application Basics     | ✅ Completed    | [View Write-Up](https://github.com/MQKGitHub/Web-Application-Basics/) |
-| JavaScript Essentials      | 🟡 In Progress  | [View Write-Up]()      |
-| SQL Fundamentals           | ❌ Not Started  | [View Write-Up]()           |
+| JavaScript Essentials      | ✅ Completed    | [View Write-Up](https://github.com/MQKGitHub/JavaScript-Essentials/)  |
+| SQL Fundamentals           | 🟡 In Progress  | [View Write-Up]()           |
 | Burp Suite: The Basics     | ❌ Not Started  | [View Write-Up]()       |
 | OWASP Top 10 - 2021        | ❌ Not Started  | [View Write-Up]()          |
 
@@ -24,9 +24,9 @@ This module helps the user become familiar with web applications, JavaScript, da
 - Learned how web browsers and servers communicate using HTTP, including how requests and responses are structured with methods, codes, and headers.  
 - Gained a strong understanding of how URLs, front-end and back-end systems, and security headers play a role in how web applications function.
 
-### 💻 JavaScript Essentials  
-- coming soon... 
-- coming soon...
+### 🧩 JavaScript Essentials  
+- Learned how JavaScript powers interactive websites through variables, functions, loops, and browser dialogue methods.  
+- Explored how attackers abuse poorly written JS for login bypasses or XSS, and practised secure coding techniques like separating logic and avoiding client-side trust.
 
 ### 🗄️ SQL Fundamentals  
 - coming soon... 
