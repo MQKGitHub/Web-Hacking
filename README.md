@@ -13,8 +13,8 @@ This module helps the user become familiar with web applications, JavaScript, da
 | Web Application Basics     | ✅ Completed    | [View Write-Up](https://github.com/MQKGitHub/Web-Application-Basics/) |
 | JavaScript Essentials      | ✅ Completed    | [View Write-Up](https://github.com/MQKGitHub/JavaScript-Essentials/)  |
 | SQL Fundamentals           | ✅ Completed    | [View Write-Up](https://github.com/MQKGitHub/SQL-Fundamentals/)       |
-| Burp Suite: The Basics     | 🟡 In Progress  | [View Write-Up]()       |
-| OWASP Top 10 - 2021        | ❌ Not Started  | [View Write-Up]()          |
+| Burp Suite: The Basics     | ✅ Completed    | [View Write-Up](https://github.com/MQKGitHub/Burp-Suite-The-Basics/)  |
+| OWASP Top 10 - 2021        | 🟡 In Progress  | [View Write-Up]()          |
 
 ---
 
@@ -32,9 +32,9 @@ This module helps the user become familiar with web applications, JavaScript, da
 - Explored how to interact with relational databases using SQL commands like `SELECT`, `INSERT`, `UPDATE`, and `DELETE`.  
 - Learned how to filter, sort, and aggregate data using clauses, operators, and built-in functions to support cyber security tasks.
 
-### 🛠 Burp Suite: The Basics  
-- coming soon... 
-- coming soon...
+### 🧪 Burp Suite: The Basics  
+- Learned how to set up Burp Suite, intercept traffic with the Proxy, and test HTTP requests using tools like Repeater and Decoder.  
+- Explored the interface, used FoxyProxy to route browser traffic, and successfully executed a reflected XSS payload.
 
 ### ⚠️ OWASP Top 10 - 2021  
 - coming soon... 
