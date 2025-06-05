@@ -14,7 +14,7 @@ This module helps the user become familiar with web applications, JavaScript, da
 | JavaScript Essentials      | ✅ Completed    | [View Write-Up](https://github.com/MQKGitHub/JavaScript-Essentials/)  |
 | SQL Fundamentals           | ✅ Completed    | [View Write-Up](https://github.com/MQKGitHub/SQL-Fundamentals/)       |
 | Burp Suite: The Basics     | ✅ Completed    | [View Write-Up](https://github.com/MQKGitHub/Burp-Suite-The-Basics/)  |
-| OWASP Top 10 - 2021        | 🟡 In Progress  | [View Write-Up]()          |
+| OWASP Top 10 - 2021        | ✅ Completed    | [View Write-Up](https://github.com/MQKGitHub/OWASP-Top-10-2021/)      |
 
 ---
 
@@ -37,5 +37,5 @@ This module helps the user become familiar with web applications, JavaScript, da
 - Explored the interface, used FoxyProxy to route browser traffic, and successfully executed a reflected XSS payload.
 
 ### ⚠️ OWASP Top 10 - 2021  
-- coming soon... 
-- coming soon...
+- Explored the most critical web application vulnerabilities as defined by OWASP, including Injection, Broken Access Control, and Security Misconfigurations.  
+- Practised exploiting real examples to understand each weakness, and learned how poor design or outdated components can lead to major security risks. 
